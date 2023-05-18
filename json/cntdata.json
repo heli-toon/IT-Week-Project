@@ -1,0 +1,87 @@
+[
+    {
+        "title":"Cotton bolls undergo a process called",
+        "answer_1":"Carding",
+        "answer_2":"Ginning",
+        "answer_3":"Retting",
+        "answer_4":"Hackling",
+        "correct_answer":"Ginning"
+        
+    },
+    {
+        "title":"The tool used to punch eyelet holes is known as",
+        "answer_1":"Bodkin",
+        "answer_2":"Lillikin",
+        "answer_3":"Ripper",
+        "answer_4":"Stiletto",
+        "correct_answer":"Stiletto"
+        
+    },
+    {
+        "title":"Which of the following is associated with crocheting?",
+        "answer_1":"Stocking stitch",
+        "answer_2":"Rib",
+        "answer_3":"Casting off",
+        "answer_4":"Picot",
+        "correct_answer":"Rib"
+        
+    },
+    {
+        "title":"Embossing is done",
+        "answer_1":"after a fabric is streched",
+        "answer_2":"during the first stage of fabric production",
+        "answer_3":"during the last stage of fabric production",
+        "answer_4":"during yarn production",
+        "correct_answer":"during the last stage of fabric production"
+        
+    },
+    {
+        "title":"In hand sewing, gathering is made by",
+        "answer_1":"running stitch",
+        "answer_2":"stem stitch",
+        "answer_3":"back stitch",
+        "answer_4":"cable stitch",
+        "correct_answer":"running stitch"
+        
+    },
+    {
+        "title":"Damaged spot in a garment resulting in the absence of yarns is known as",
+        "answer_1":"tear",
+        "answer_2":"hole",
+        "answer_3":"darn",
+        "answer_4":"patch",
+        "correct_answer":"hole"
+    },
+    {
+        "title":"The elasticity of wool fibres make woolen fabrics",
+        "answer_1":"crease resistance",
+        "answer_2":"shrink resistance",
+        "answer_3":"felt",
+        "answer_4":"lustrous",
+        "correct_answer":"crease resistance"
+    },
+    {
+        "title":"Gathering stitch can be used for making",
+        "answer_1":"pleat",
+        "answer_2":"frills",
+        "answer_3":"darts",
+        "answer_4":"facing",
+        "correct_answer":"pleat"
+    },
+    {
+        "title":"A fabric width required for a 60cm full waist gathered skirt is",
+        "answer_1":"90cm",
+        "answer_2":"120cm",
+        "answer_3":"180cm",
+        "answer_4":"240cm",
+        "correct_answer":"120cm"
+    },
+    {
+        "title":"Valine is a fabric suitable for",
+        "answer_1":"Lining fabrics",
+        "answer_2":"Making covered buttons",
+        "answer_3":"stiffening belts",
+        "answer_4":"making false hem",
+        "correct_answer":"Lining fabrics"
+    }
+]
